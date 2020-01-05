@@ -22,7 +22,7 @@ loot-chance:
   curse: 0.00126
 
 # When true, logs some extra output to the console so you can see if/why things might be failing
-debug: false
+debug: true
 
 stats:
   # Whether or not to send anonymous usage statistics to bStats
